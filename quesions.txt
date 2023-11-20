@@ -1,0 +1,107 @@
+
+### Easy Level (1-30):
+1. What is JavaScript?
+2. Explain the difference between `let`, `const`, and `var`.
+3. What is the significance of the `typeof` operator?
+4. How do you check if a variable is an array?
+5. What is the purpose of the `this` keyword?
+6. What is closure in JavaScript?
+7. Explain the concept of event delegation.
+8. How do you create an object in JavaScript?
+9. What is the purpose of the `map()` function in JavaScript?
+10. Explain the difference between `==` and `===`.
+11. What is the difference between `null` and `undefined`?
+12. How do you reverse a string in JavaScript?
+13. Explain the concept of hoisting.
+14. What is the purpose of the `setTimeout` function?
+15. How do you handle asynchronous operations in JavaScript?
+16. What is the purpose of the `Array.prototype.filter` method?
+17. Explain the difference between synchronous and asynchronous code.
+18. What is a callback function?
+19. How do you handle errors in JavaScript?
+20. What is the purpose of the `localStorage` object?
+21. Explain the event bubbling and capturing in JavaScript.
+22. What is the use of the `bind` method in JavaScript?
+23. How do you convert a string to a number in JavaScript?
+24. Explain the concept of prototypal inheritance.
+25. What is the purpose of the `try...catch` statement?
+26. How do you compare two objects in JavaScript?
+27. Explain the concept of currying in JavaScript.
+28. What is the purpose of the `Array.prototype.reduce` method?
+29. How do you remove duplicates from an array?
+30. What is the purpose of the `Promise` object in JavaScript?
+
+### Medium Level (31-70):
+31. What is the event loop in JavaScript?
+32. Explain the difference between `null` and `undefined`.
+33. How do you create a closure in JavaScript?
+34. What is the purpose of the `Object.create` method?
+35. How does the `call` and `apply` methods work?
+36. Explain the concept of the prototype chain.
+37. What is the difference between a shallow copy and a deep copy?
+38. How does `async/await` work in JavaScript?
+39. Explain the concept of memoization.
+40. What is the purpose of the `bind` method in JavaScript?
+41. How does the `delete` operator work?
+42. Explain the concept of the event loop in JavaScript.
+43. What is a pure function?
+44. How do you check if a value is an object in JavaScript?
+45. Explain the purpose of the `Symbol` data type.
+46. How do you create a class in JavaScript?
+47. Explain the use of the `Object.keys` method.
+48. What is the purpose of the `Array.prototype.forEach` method?
+49. How do you implement inheritance in JavaScript?
+50. Explain the concept of function composition.
+51. What is the purpose of the `finally` block in a `try...catch` statement?
+52. How does the `instanceof` operator work?
+53. Explain the concept of lazy loading.
+54. What is the purpose of the `fetch` function in JavaScript?
+55. How do you clone an object in JavaScript?
+56. Explain the concept of the event delegation pattern.
+57. What is the purpose of the `Object.freeze` method?
+58. How does the `Object.defineProperty` method work?
+59. Explain the concept of the mediator pattern.
+60. What is the purpose of the `Array.isArray` method?
+61. How do you handle circular references in JSON?
+62. Explain the concept of a first-class function.
+63. What is the purpose of the `Array.prototype.map` method?
+64. How does function hoisting work in JavaScript?
+65. Explain the concept of the observer pattern.
+66. What is the purpose of the `Array.prototype.slice` method?
+67. How do you use the `localStorage` object in JavaScript?
+68. Explain the concept of the facade pattern.
+69. What is the purpose of the `WeakMap` object in JavaScript?
+70. How do you create a promise in JavaScript?
+
+### Hard Level (71-100):
+71. Explain the concept of the decorator pattern.
+72. How does the `Promise.all` method work?
+73. What is the purpose of the `Array.prototype.some` method?
+74. How do you implement a deep clone of an object?
+75. Explain the concept of the prototype-based inheritance.
+76. What is the purpose of the `Object.setPrototypeOf` method?
+77. How does the JavaScript engine execute asynchronous code?
+78. Explain the concept of the flyweight pattern.
+79. What is the purpose of the `Object.getOwnPropertyDescriptors` method?
+80. How do you implement a generator function in JavaScript?
+81. Explain the concept of the module pattern.
+82. What is the purpose of the `Proxy` object in JavaScript?
+83. How does the `EventEmitter` pattern work in Node.js?
+84. Explain the concept of the two-way data binding.
+85. What is the purpose of the `Reflect` object in JavaScript?
+86. How do you implement a binary search algorithm in JavaScript?
+87. Explain the concept of the command pattern.
+88. What is the purpose of the `Array.prototype.reduceRight` method?
+89. How does the JavaScript garbage collector work?
+90. Explain the concept of the middleware pattern in Express.js.
+91. What is the purpose of the `WeakSet` object in JavaScript?
+92. How do you implement a publish-subscribe pattern?
+93. Explain the concept of the strategy pattern.
+94. What is the purpose of the `Array.prototype.flat` method?
+95. How does the `Object.create(null)` differ from `{}` in JavaScript?
+96. Explain the concept of the async generator function.
+97. What is the purpose of the `ArrayBuffer` object in JavaScript?
+98. How do you implement a linked list in JavaScript?
+99. Explain the concept of the service worker in web development.
+100. What is the purpose of the `Intl` object in JavaScript?
+
