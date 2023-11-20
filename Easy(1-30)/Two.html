@@ -60,8 +60,28 @@
         // let b = "raza"   // eror b/c not re-declared in the same scope.
 
     }
+    letExample()
 
-letExample()
+//     const:
+
+    // Scope: Block-scoped, just like let.
+    // Hoisting: Variables declared with const are also hoisted to the top of their block, but like let, they are not initialized.
+    // Reassignment: Cannot be reassigned after declaration. However, for objects and arrays declared with const, their properties or elements can be modified.
+
+    console.log("...............const .............")
+
+    const constExample =()=>{
+        const x = "muhammad"
+        // x = "raza"   // error
+        console.log(x)
+
+
+    }
+    constExample()
+
+
+
+//   
     </script>
 </body>
 </html>
