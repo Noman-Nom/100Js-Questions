@@ -1,18 +1,6 @@
-<!-- 2. Explain the difference between `let`, `const`, and `var`. -->
-
-<!DOCTYPE html>
-<html lang="javascript/react">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-
-    <script>
-  
+// <!-- 2. Explain the difference between `let`, `const`, and `var`. -->
 //     var:
+
 
     // Scope: Function-scoped. If declared inside a function, the variable is only accessible within that function.
      // Hoisting: Variables declared with var are hoisted to the top of their scope, which means you can use them before the declaration.
@@ -79,9 +67,3 @@
     }
     constExample()
 
-
-
-//   
-    </script>
-</body>
-</html>
