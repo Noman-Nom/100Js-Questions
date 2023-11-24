@@ -9,6 +9,7 @@ const Object = {
         // console.log(this.name + ` Hello`)
         // console.log(this.name, ` Hello`)
         console.log(`${this.name} Hello`)
+        console.log(this)
     }
 
 
