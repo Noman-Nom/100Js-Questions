@@ -43,6 +43,18 @@ Here's an example to illustrate event delegation: -->
 
         })
 
+        const addNewTask = (taskTesk)=>{
+            const newElement = document.createElement('li')
+            newElement.textContent=taskTesk;
+            document.getElementById('list-items').appendChild(newElement)
+        }
+
+
+        addNewTask('Task 5')
+        addNewTask('Task 6') 
+
+
+        // ............. another example
     </script>
 </body>
 </html>
