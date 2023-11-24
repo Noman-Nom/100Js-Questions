@@ -23,7 +23,7 @@ Here's an example to illustrate event delegation: -->
 <body>
 
 
-    <ul class="list-items">
+    <ul id="list-items">
         <li>Task 1</li>
         <li>Task 2</li>
         <li>Task 3</li>
@@ -34,7 +34,14 @@ Here's an example to illustrate event delegation: -->
 
     <script>
 
-        document.getElementById('list-items').addEventListener('cl')
+        const list  =document.getElementById('list-items')
+        console.log(list)
+        list.addEventListener('click', (event)=>{
+            if(event.target.tagName=='LI'){
+                console.log("Task Clicked", event.target.innerText)
+            }
+
+        })
 
     </script>
 </body>
